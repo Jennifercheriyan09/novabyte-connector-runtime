@@ -1,10 +1,2 @@
-// fix applied
-//second fix
-//third fix
-//pr submitted
-//pr-1
-//checking push - 5
-//hello2
+//fix applied
 //hello
-//hello3
-//hello4
